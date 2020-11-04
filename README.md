@@ -1,24 +1,12 @@
-# taudauss
+# Taudauss
 
-## Project setup
-```
-npm install
-```
+## Preview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![alt text](./src/assets/preview.png "TodoList preview")
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Quick Start
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 1. Clone the repo
+### 2. `npm install`
+### 3. `npm run serve`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
